@@ -1,4 +1,4 @@
 # Coursera_Capstone
 Coursera_Capstone
 
-Coursera_Capstone/Coursera_Capstone.ipynb
+[Coursera_Capstone/Coursera_Capstone.ipynb]
